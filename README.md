@@ -8,6 +8,10 @@
 | **terkylol12** | Agro Soar | [24:20](https://www.twitch.tv/videos/342063912) | 2018-11-28 | Emu | |
 | terkylol12 | Baby T-Rex | [25:53](https://www.twitch.tv/videos/340172516) | 2018-11-24 | Emu | |
 
+## Information
+
+These four games for the Game Boy are all the same game with graphical differences.
+
 ## Submission
 
 If you want to submit a run, just [contact me on Twitter](https://twitter.com/Ajarmar_) or some other place you find me. (There may be a more proper submission method in the future.)
