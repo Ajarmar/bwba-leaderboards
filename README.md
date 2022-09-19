@@ -7,6 +7,7 @@
 | **StarvinStruthers** | We're Back | [19:45](https://www.twitch.tv/videos/30051579) | 2015-12-14 | Console | |
 | **terkylol12** | Agro Soar | [24:20](https://www.twitch.tv/videos/342063912) | 2018-11-28 | Emu | |
 | terkylol12 | Baby T-Rex | [25:53](https://www.twitch.tv/videos/340172516) | 2018-11-24 | Emu | |
+| **Nitroz** | Bamse | [32:36](https://www.youtube.com/watch?v=-VfrN0c4cnI) | 2022-05-01 | Emu | |
 
 ## Information
 
