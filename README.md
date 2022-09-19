@@ -10,7 +10,7 @@
 
 ## Information
 
-These four games for the Game Boy are all the same game with graphical differences.
+These four games for the Game Boy are all the same game with graphical differences. The acronym "BWBA" is just the initials of the four games.
 
 ## Submission
 
